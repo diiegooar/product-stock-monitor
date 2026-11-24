@@ -1,0 +1,11 @@
+
+[
+    {
+        "name": "Test Product A",
+        "url": "https://example.com"
+    },
+    {
+        "name": "Test Product B",
+        "url": "https://example.org"
+    }
+]
